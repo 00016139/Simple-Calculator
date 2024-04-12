@@ -1,0 +1,20 @@
+{
+  "name": "npm101.simple.calculator",
+  "version": "1.0.5",
+  "description": "A Simple Calculator with TypeScript, Node JS, and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Adeel Khan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
